@@ -1,1 +1,1 @@
-print("bedo")
+print("bedo hamo ")

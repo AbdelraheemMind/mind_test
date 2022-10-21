@@ -1,1 +1,1 @@
-print("bedo Nasser")
+print("bedo")
